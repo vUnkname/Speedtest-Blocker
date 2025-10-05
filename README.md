@@ -1,6 +1,7 @@
 # 🚀 Speedtest Blocker
 
-<div align="right" dir="rtl">
+<style>.art_body *{direction:rtl !important;text-align:right;}</style>
+<div class="art_body">
 
 > **فارسی**: برای مستندات فارسی، لطفاً به این [فایل](https://github.com/vUnkname/Speedtest-Blocker/blob/main/README-FA.md) مراجعه کنید.
 

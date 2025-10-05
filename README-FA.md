@@ -11,7 +11,8 @@
 ![تصویر ترمینال](https://raw.githubusercontent.com/vUnkname/Speedtest-Blocker/main/screenshot.png)
 
 </div>
-<div align="right" dir="rtl">
+<style>.art_body *{direction:rtl !important;text-align:right;}</style>
+<div class="art_body">
 
 ## 📞 پشتیبانی
 
